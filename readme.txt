@@ -12,3 +12,6 @@ python phase1.py
 
 python app.py
 
+
+### 📄 Project Details  
+For a full overview of the project, please refer to [**final_project_ppt.pdf**](./final_project_ppt.pdf).
